@@ -6,7 +6,7 @@ package Modelo;
 
 /**
  *
- * @author santi
+ * @author santiago
  */
 public class Prueba {
     private int id;
@@ -43,4 +43,4 @@ public class Prueba {
         this.descripcion = descripcion;
     }
 }
-/*hola */
+/*hola mundo*/
